@@ -1,10 +1,14 @@
 # PROJECT M#
 
+© 2024 ARAVIND KRISHNAN K. All rights reserved.
+
 ## Dataset
 
-The dataset for this project can be downloaded from the following link:
-https://drive.google.com/drive/folders/1Oredqfe75tWG9YXmox2-wv96ekqjJTDI?usp=sharing
-Download Dataset
+The dataset for this project can be downloaded by clicking the button below:
+
+!Download Dataset
+
+This dataset was obtained from the following GitHub repository: SinfNet
 
 ## Setup and Installation
 
@@ -33,6 +37,3 @@ After setting up the environment and installing the required packages, you can r
 streamlit run app.py
 
 Enjoy working on PROJECT M#!
-
-
-
