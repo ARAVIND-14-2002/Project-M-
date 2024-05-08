@@ -33,7 +33,8 @@ pip install -r requirements.txt
 
 Running the Project
 After setting up the environment and installing the required packages, you can run the project using the following command:
-
-streamlit run app.py
+**cd Frontend
+**cd YOLOv5 / cd YOLOv8
+**streamlit run app.py
 
 Enjoy working on PROJECT M#!
