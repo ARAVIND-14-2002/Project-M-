@@ -8,7 +8,7 @@ The dataset for this project can be downloaded by clicking the button below:
 
 [![Download Dataset](https://img.shields.io/badge/Download-Dataset-blue.svg)](https://drive.google.com/drive/folders/1Oredqfe75tWG9YXmox2-wv96ekqjJTDI?usp=drive_link)
 
-This dataset was obtained from the following GitHub repository: [SinfNet](https://github.com/sarisabban/SinfNet)
+This dataset was obtained from the following GitHub repository: [![SinfNet](https://img.shields.io/badge/SinfNet-red.svg)](https://github.com/sarisabban/SinfNet)
 
 ## Setup and Installation
 
