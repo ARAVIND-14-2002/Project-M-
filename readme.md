@@ -2,6 +2,13 @@
 
 © 2024 ARAVIND KRISHNAN K. All rights reserved.
 
+## RESULTS ##
+!YOLOv5
+!Results/yolov5.png
+
+!YOLOv8
+!Results/yolov8.png
+
 ## Dataset
 
 The dataset for this project can be downloaded by clicking the button below:
