@@ -171,7 +171,6 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-#st.set_page_config(layout="wide")
 
 cfg_model_path = 'models/best.pt'
 model = None
@@ -348,7 +347,7 @@ def main():
         model = load_model(cfg_model_path, device_option)
 
         # confidence slider
-        confidence = st.sidebar.slider('Confidence', min_value=0.1, max_value=1.0, value=.45)
+        confidence = st.sidebar.slider('Confidence', min_value=0.1, max_value=1.0, value=.50)
 
         # custom classes
         if st.sidebar.checkbox("Custom Classes"):
