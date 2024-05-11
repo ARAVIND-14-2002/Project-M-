@@ -4,7 +4,7 @@
 
 ## RESULTS ##
 1. **YOLOv5**
-   ![YOLOv5](./Result/yolov5.png)
+   ![YOLOv5](./Results/yolov5.png)
 
 2. **Search Result**
    ![Search Result](./Results/yolov8.png)
